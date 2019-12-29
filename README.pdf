@@ -1,17 +1,3 @@
-# Expression-Evaluation
-
-Expressions
-  
-  Here are some example expressions:
-    
-    3
-    
-    Xyz
-    
-    3-4*5
-    
-    a-(b+A[B[2]])*d+3
-    
-    A[2*(a+b)]
-    
-    (varx + vary*varz[(vara+varb[(a+b)*33])])/55
+Rutgers - CS112 - Assignment #2
+Expression-Evaluation
+Second Assignment in Fall 2019 of Data Structures - Evaluates any given expression consisting of numbers, variables, and arrays, returning the resulting value of the expression.
